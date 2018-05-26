@@ -9,3 +9,28 @@ h1 {
   font-weight: normal;
   color: white;
 }
+
+video {
+  object-fit: contain;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h3 {
+  color: gray;
+  font-size: 21px;
+  font-weight: 300;
+}
+
+footer {
+  text-align: right;
+}
